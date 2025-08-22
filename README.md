@@ -9,7 +9,7 @@ This project predicts the future price of gold using historical data and machine
 - **Goal**: Predict gold price based on financial indicators
 
 ## 📊 Dataset
-- Source: Yahoo Finance or Kaggle
+- Source: Yahoo Finance or Kaggle (https://www.kaggle.com/datasets/altruistdelhite04/gold-price-data?resource=download)
 - Time Range: 2008–2023
 - Columns: Date, SPX, GLD, USO, SLV, EUR/USD
 
@@ -21,7 +21,7 @@ This project predicts the future price of gold using historical data and machine
 
 ## 🚀 How to Run
 1. Open in [Google Colab](https://colab.research.google.com/)
-2. Upload `gold_price_data.csv`
+2. Upload `gold_price_data.csv`  
 3. Run all cells
 4. View prediction results
 
