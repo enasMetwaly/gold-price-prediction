@@ -1,0 +1,35 @@
+# Jupyter Notebooks
+.ipynb_checkpoints
+__pycache__
+*.pyc
+
+# Datasets (uncomment if you want to exclude CSV)
+*.csv
+
+# Environment
+env/
+venv/
+.DS_Store
+Thumbs.db
+
+# Output
+outputs/
+models/
+
+
+
+# Ignore system folders
+.config/
+.git/
+logs/
+.cache/
+.tmp/
+
+# Ignore temporary files
+*.tmp
+*.log
+__pycache__/
+*.pyc
+
+# Ignore Colab default folder
+sample_data/
